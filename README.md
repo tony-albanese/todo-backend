@@ -33,3 +33,6 @@ python manage.py migrate
 >create superuser: python manage.py createsuperuser
 > username: aiman
 > aimanpass12
+
+>pip install djangorestframework
+> settings.py add it to installed apps
